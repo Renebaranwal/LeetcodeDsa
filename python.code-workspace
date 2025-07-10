@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"name": "python",
+			"path": "../python"
+		},
+		{
+			"name": "JavaDsa",
+			"path": "."
+		},
+		{
+			"name": "Frontend",
+			"path": "../Frontend"
+		},
+		{
+			"name": "CODING",
+			"path": "D:/RENE/CODING"
+		},
+		{
+			"path": "../PythonBackend"
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			""
+		],
+		"liveServer.settings.multiRootWorkspaceName": "CODING"
+	}
+}
